@@ -16,6 +16,8 @@ function exibirMensagemInicial() {
 
 //teste commit// 
 
+//teste
+
 exibirMensagemInicial();
 
 function verificarChute() {
